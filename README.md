@@ -11,3 +11,5 @@ Details : https://medium.com/@miramnair/develop-and-deploy-a-serverless-rag-solu
 What will we achieve in Part 1?
 
 We successfully created an Amazon OpenSearch Serverless collection and a vector index within that collection. Additionally, we uploaded a sample JSON file into our S3 bucket. Currently, these components exist as separate entities. In Part 2, we will create a Bedrock agent and a knowledge base and integrate them with OpenSearch Serverless.
+
+Link to Part 2 : https://github.com/miramnair/rag-aws-opensearch-part2
