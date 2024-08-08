@@ -1,5 +1,7 @@
 **Please note that this is a two-part series, and this is Part 1 of the implementation.**
 
+Deploy an enterprise grade Q&A, Serverless RAG application using Amazon Bedrock agents, Amazon Bedrock KnowledgeBase and OpenSearch Serverless and Amazon Titan Text Embeddings V1. Knowledge Bases for Amazon Bedrock is a fully managed capability that helps you implement the entire RAG workflow from ingestion to retrieval and prompt augmentation without having to build custom integrations to data sources and manage data flows.
+
 Details : https://medium.com/@miramnair/develop-and-deploy-a-serverless-rag-solution-with-amazon-bedrock-agents-knowledge-base-and-ef8a1818bc1e
 
 
